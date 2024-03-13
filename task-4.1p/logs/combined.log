@@ -1,0 +1,11 @@
+{"level":"error","message":"Invalid input: num1=undefined, num2=undefined","service":"calculator-microservice"}
+{"level":"info","message":"Operation add successful on 2 and 3. Result = 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation add successful on 2 and 3. Result = 5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1=undefined, num2=undefined","service":"calculator-microservice"}
+{"level":"info","message":"Operation add successful on 2 and 3. Result = 5","service":"calculator-microservice"}
+{"level":"error","message":"Operation not found: devide","service":"calculator-microservice"}
+{"level":"info","message":"Operation divide successful on 2 and 3. Result = 0.6666666666666666","service":"calculator-microservice"}
+{"level":"error","message":"Cannot divide by zero","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1=2, num2=a","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1=undefined, num2=undefined","service":"calculator-microservice"}
+{"level":"error","message":"Operation not found: falseoperation","service":"calculator-microservice"}
